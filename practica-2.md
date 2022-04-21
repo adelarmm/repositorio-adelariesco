@@ -14,9 +14,15 @@ Ninguna fuente consultada para este informe proporciona algún dato alentador, y
 ## Dióxido de carbono
 
 
-Algunas cifras de Global Carbon Project recogen un aumento exponencial de las emisiones de CO2 por combustibles fósiles desde la época preindustrial. **Hasta 34.000 millones de toneladas de CO2 se emitieron en todo el mundo en el año 2020**. Gráficas de emisiones de millones de toneladas de CO2 relativas a cada país muestran como mayores emisores en el año 2020 a *China, Estados Unidos, India, Rusia y Japón*, respectivamente. Aquí se muestra un avance mensual de las emisiones producidas en 2020 y la brutal caída en un 17,3% durante los meses de mayor confinamiento:
+Algunas cifras de Global Carbon Project recogen un aumento exponencial de las emisiones de CO2 por combustibles fósiles desde la época preindustrial. **Hasta 34.000 millones de toneladas de CO2 se emitieron en todo el mundo en el año 2020**. Gráficas de emisiones de millones de toneladas de CO2 relativas a cada país muestran como mayores emisores en el año 2020 a *China, Estados Unidos, India, Rusia y Japón*, respectivamente. Aquí se muestra un avance diario de las emisiones producidas en 2020 y la brutal caída en un 17,3% durante los meses de mayor confinamiento:
 
-![Infographic_Emissions2021.pdf](https://www.globalcarbonproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+
+https://user-images.githubusercontent.com/99193157/164504837-a29f7a9c-d48b-4457-827d-1986f3e22af3.mp4
+
+
+Aquí se muestra una comparativa entre la caída anterior, que anualmente supuso una reducción del 5,4% de emisiones, y la posterior subida del 4,9% en el cómputo anual de 2021. En el año pasado también se repitieron nombres de países con mayores responsabilidad de emisión:
+
+![Infographic_Emissions2021-1](https://user-images.githubusercontent.com/99193157/164504669-32a0c3a8-e119-41ea-b414-35b3912b09b4.png)
 
 
 ## Último IPCC y las ciudades
