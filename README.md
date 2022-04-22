@@ -2,8 +2,8 @@ En este repositorio se incluyen las prácticas de la asignatura de Periodismo de
 - practica-1-libre.md
 - practica-1-TRESCA.md
 - practica-2.md
-- practica-3.md con:
-   - practica-Python-3.md
+- practica-Python-3.md con:
+   - practica-3.md
    - Probando con R.html
    - Probando con R.ipynb
    - api-pandas-folium.html
