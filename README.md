@@ -10,3 +10,5 @@ En este repositorio se incluyen las prácticas de la asignatura de Periodismo de
    - api-pandas-folium.ipynb
    - python-api-covid19-pandas.html
    - python-api-covid19-pandas.ipynb
+   - esvsit.png
+   - esvsit.csv
